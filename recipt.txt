@@ -1,0 +1,16 @@
+	ID	Product Name		Brand	  	Manufacturing date	Quantity	Total price
+
+	************************************************************************************************
+	101	 Milk			Amul			Aug/21		  4		Rs.100
+
+	112	 Shoes			Nike			Sep/19		  1		Rs.500
+
+	116	 Mobile			Apple			Oct/20		  2		Rs.24000
+
+	127	 Drink			Moster			June/21		  5		Rs.175
+
+	************************************************************************************************
+
+									  Total Amount:	  Rs. 24775
+	13:39:23
+	Mon Sep  6 2021
